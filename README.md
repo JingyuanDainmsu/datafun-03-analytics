@@ -1,4 +1,4 @@
-# datafun-03-project
+# datafun-03-analytics
 This is the repo for the third project.
 
 ## Set up the virtual environment for the project
